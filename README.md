@@ -1,7 +1,7 @@
-### Hey, nice to e-meet you! My name is 
-## Simon Nyssen.
+#### Hey, nice to e-meet you! My name is 
+### Simon Nyssen.
 
-### I am a Belgian **full-stack software & DevOps engineer** who is passionate about web technologies and self-hosting.
+#### I am a Belgian **full-stack software & DevOps engineer** who is passionate about web technologies and self-hosting.
 
 Check my **[personal website](https://snyssen.be)** and follow me on the following platform:
 
@@ -10,7 +10,7 @@ Check my **[personal website](https://snyssen.be)** and follow me on the followi
 [![LinkedIn button](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/snyssen/)
 [![Gitea button](https://img.shields.io/badge/Gitea--blue?style=social&logo=gitea)](https://git.snyssen.be/snyssen)
 
-# Statistics
+## Statistics
 
 ![Profile views](https://komarev.com/ghpvc/?username=snyssen&style=flat&color=9333ea)
 
