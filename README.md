@@ -3,7 +3,7 @@
 
 #### I am a Belgian **full-stack software & DevOps engineer** who is passionate about web technologies and self-hosting.
 
-Check my **[personal website](https://snyssen.be)** and follow me on the following platform:
+Check out my **[personal website](https://snyssen.be)** and follow me on the following platform:
 
 [![GitHub followers](https://img.shields.io/github/followers/snyssen?style=social&color=9333ea)](https://github.com/snyssen)
 [![Mastodon followers](https://img.shields.io/mastodon/follow/109759853220517726?domain=https%3A%2F%2Fhostux.social&style=social)](https://hostux.social/@snyssen)
