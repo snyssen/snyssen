@@ -15,3 +15,10 @@ Check out my **[personal website](https://snyssen.be)** and follow me on the fol
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=snyssen&theme=transparent&title_color=9333ea)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snyssen&layout=compact&theme=transparent&title_color=9333ea)
+
+## Funny badges
+
+<!-- my-badges start -->
+<!-- my-badges end -->
+
+[Source](https://github.com/my-badges/my-badges)
