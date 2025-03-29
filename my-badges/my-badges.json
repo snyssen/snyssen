@@ -1,0 +1,177 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/ae9b01c777c26cd3765779749a92cdef2b3d3726\"><strong>a</strong>e9b01c777c26cd3765779749a92cdef2b3d3726</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/abeee95214ea68738e82d66ef509020ddb9f9aaa\"><strong>ab</strong>eee95214ea68738e82d66ef509020ddb9f9aaa</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/snyssen/ansible_role_compose_deploy/commit/ff389e691d8490e3ee9496cafecccebd8688e1ea\">ff389e691d8490e3ee9496<strong>cafe</strong>cccebd8688e1ea</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/e0e5ef95cafec8de81d2b6483c34eabf1a35bc37\">e0e5ef95<strong>cafe</strong>c8de81d2b6483c34eabf1a35bc37</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/restic-backup-docker-wol/commit/f5c310292eb14f83adf93deb24deaf0a8af7dc48\">f5c3102</a>: chore(builds): disable Dockerfile update for first time run\n\nThis commit is supposed to be reverted after first successful run",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/29cc474a96b4ec6ca0701ea081cee77270eefbef\">29cc474</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/36a8586706f793e297a89addf63fc3a2634672b6\">36a8586</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/96a490c35d788042f58596f78127662c54c34924\">96a490c</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/5455683ac5a099110e705137acd7028d8784c083\">5455683</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/2ec9ba0a7084a665f1fe575c5449d7ab4da1e333\">2ec9ba0</a>\n- <a href=\"https://github.com/snyssen/quartz-docker-auto-publish/commit/e4f997d95a065f178acd324cea939212e2b78f6b\">e4f997d</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f5fd024165e8d6e9efd9421f82ed927deadc86f7\">f5fd024165e8d6e9efd9421f82ed927<strong>dead</strong>c86f7</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/1e754ebdd19aef1561d97c2e00873488db567eb2\">1e754eb</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b443003a1dc6e40dfa8bfa4cdd365e8d596dafa1\">b443003</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/49d66095b12ac739658b71bdae9b9c9c388c6c79\">49d6609</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b9a78ba62a9fed30f09b9297aabf5285c6b1145d\">b9a78ba</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/45194a7aedb20f2230a87415e22718da32d04593\">45194a7</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/aeb4c8ef8b3862fe2e693b9902b73f4a653bb32f\">aeb4c8e</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/8e41383074d67bed9e8615891f7427293ddff442\">8e41383</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/939e142b3ffef457db1155c068272cecc48c2da9\">939e142</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 309 times)\n2. adds (used 158 times)\n3. update (used 156 times)\n4. fix (used 109 times)\n5. input (used 104 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/personal-website/commit/fb0f5c7fd6204840949268073175a457df5db9c3\">fb0f5c7</a>: fix: update analytics link\n- <a href=\"https://github.com/snyssen/personal-website/commit/938ac4e4874ca47e76853bf736af989b1d8fa512\">938ac4e</a>: fix: remove plausible analytics",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/82e80060a73435c1c9bd5f3afcaaee3f058ae347\">82e8006</a>: fix: add workaround for power issues after hibernate\n- <a href=\"https://github.com/snyssen/nixos-config/commit/6e45bd894bdcbf7eebe184620db740ef52eb5a82\">6e45bd8</a>: fix(hosts/xps): fix unrecognized mono font and gnome app that would not start (workaround)\n- <a href=\"https://github.com/snyssen/nixos-config/commit/c4f38d883ae604e66a4cab30172aeb661296e9f7\">c4f38d8</a>: fix: update flake and adapt to breaking changes",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/13e4eab2cb48c5226af5c06e542a82c64ef7cd9f\">13e4eab</a>: fix(hosts/virtualbox): add missing home-manager stateVersion\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1e6e3776bf005d3d6c00808fb33b67184f69df6a\">1e6e377</a>: fix(homeManagerModules/zsh): add missing pkgs arg\n- <a href=\"https://github.com/snyssen/nixos-config/commit/618c9906e71038cb53fd89c2cbec14e02d8932eb\">618c990</a>: fix: missing semicolon\n- <a href=\"https://github.com/snyssen/nixos-config/commit/0497554c4d7c800575f681b0b3f6c424d8232dde\">0497554</a>: fix: missing semicolon",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/abf3a8038671dee9904720bae22e0e4d9f83b18e\">abf3a80</a>: fix(hm/zsh): move deployment of p10k config file to correct config path\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b5ad55fba72e261b4ed52ffeeb92abff292aebe8\">b5ad55f</a>: fix(hm/zsh): fix p10k config deployment\n- <a href=\"https://github.com/snyssen/nixos-config/commit/c8d02191683952a60559ebd47657fa0c9e1e92b9\">c8d0219</a>: fix(hm/zsh): [TEST] p10k ?\n- <a href=\"https://github.com/snyssen/nixos-config/commit/29ea596ba31c6401f9f81d2f96a74677f425cec2\">29ea596</a>: fix(hm/zsh): [TEST] fix p10k config loading\n- <a href=\"https://github.com/snyssen/nixos-config/commit/8d42d3c620241ac607398631c5242e449a6973a7\">8d42d3c</a>: fix(hm/zsh): [TEST] fix p10k config loading?",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/635e7ac2a515e876c1bd9069ac03f91e0f833592\">635e7ac</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/721384ff66211d2c06a18463a5fdcadbdac52199\">721384f</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/67ae168409a666b5b1a9b4aae8d0a3756f8d8beb\">67ae168</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/5d2c8a7b3393bea73000ee0a0080a5bf929c5554\">5d2c8a7</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1028e8c3033d38e15030f9987ddd78860fc44362\">1028e8c</a>\n- <a href=\"https://github.com/snyssen/personal-website/commit/e67f2970ac52b2afc4c503b0f7fb1b3107474335\">e67f297</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/26c3ba67ab39a21e5a5183743db618e42dea8698\">26c3ba6</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/0940ea8c13a61687701fda7ce3963d25ed43b345\">0940ea8</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/886ab3661d9550bf496e7a8a3d3955c9821760eb\">886ab36</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "leap-day",
+    "tier": 0,
+    "desc": "Happy February 29th! I committed on a Leap Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f6fe0eac68d021c2d94a96fea786fd767569b032\">f6fe0ea</a>",
+    "image": "https://my-badges.github.io/my-badges/leap-day.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/3de671ddb69bb72233255115173bb9876025d370\">3de671d</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nextcloud/mail/issues/6678\">#6678</a>: Create a task from a mail\n- <a href=\"https://github.com/snyssen/personal-website/issues/34\">#34</a>: Add release please in repos\n- <a href=\"https://github.com/kyverno/policy-reporter/issues/376\">#376</a>: Kind and Name labels empty in metrics exposed to Prometheus\n- <a href=\"https://github.com/ellite/Wallos/issues/94\">#94</a>: [FEATURE REQUEST] Provide versioned container images",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/d91cf27c777f30affe44e2bd5090be19a8c4e9f6\">d91cf27</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/42\">#42</a>\n- <a href=\"https://github.com/snyssen/personal-website/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/c17e1caa27c32d1f42b778b0be8d620f9a6dc7c3\">c17e1ca</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/2442b8bbbf6b4e4a7626ae4e40a474ef7042e335\">2442b8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/0b91534d76ec149a2ffdf7368420adc601804ef8\">0b91534</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1028e8c3033d38e15030f9987ddd78860fc44362\">1028e8c</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/168729d1f01b0ae430a24214dea814d4205057d1\">168729d</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8ae10d8218a3c18f6ec6d7019f7c02ecd9bc9dda\">8ae10d8</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f19f7441bfb7737ec4f0bcfc29ebdc327f221b93\">f19f744</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/6560c998257f99cf86521dbbae09e0db280a5cee\">6560c99</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/6a98db4b72b4e3c5bdae455af0bc8c5aedc2dc48\">6a98db4</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/d0ee5a0c99e964c8a5cee33ad68aa20531af7ef9\">d0ee5a0</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/487710832cab1be5a8f5f302bcf5e9c17c95a544\">4877108</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f1d29833a6c3b788fda8e961636ce5930cd48cec\">f1d2983</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/77b429145a818f747c346fef4d91e3d7b4f5ba9a\">77b4291</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
