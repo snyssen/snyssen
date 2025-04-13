@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/snyssen/nix-dev-env/commit/6ee36fdccd0f000efcff8d26fc7862501302b117">6ee36fd</a>
 - <a href="https://github.com/snyssen/nixos-config/commit/b443003a1dc6e40dfa8bfa4cdd365e8d596dafa1">b443003</a>
 - <a href="https://github.com/snyssen/nixos-config/commit/49d66095b12ac739658b71bdae9b9c9c388c6c79">49d6609</a>
 - <a href="https://github.com/snyssen/nixos-config/commit/b9a78ba62a9fed30f09b9297aabf5285c6b1145d">b9a78ba</a>

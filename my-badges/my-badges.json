@@ -16,8 +16,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/snyssen/ansible_role_compose_deploy/commit/ff389e691d8490e3ee9496cafecccebd8688e1ea\">ff389e691d8490e3ee9496<strong>cafe</strong>cccebd8688e1ea</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/e0e5ef95cafec8de81d2b6483c34eabf1a35bc37\">e0e5ef95<strong>cafe</strong>c8de81d2b6483c34eabf1a35bc37</a>",
+    "desc": "I pushed a commit with \"cafe\" 3 times.",
+    "body": "- <a href=\"https://github.com/snyssen/ansible_role_compose_deploy/commit/ff389e691d8490e3ee9496cafecccebd8688e1ea\">ff389e691d8490e3ee9496<strong>cafe</strong>cccebd8688e1ea</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/514536784d26c4c1f8252cfc313a4aa05ecafe07\">514536784d26c4c1f8252cfc313a4aa05e<strong>cafe</strong>07</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/e0e5ef95cafec8de81d2b6483c34eabf1a35bc37\">e0e5ef95<strong>cafe</strong>c8de81d2b6483c34eabf1a35bc37</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -59,14 +59,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b443003a1dc6e40dfa8bfa4cdd365e8d596dafa1\">b443003</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/49d66095b12ac739658b71bdae9b9c9c388c6c79\">49d6609</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b9a78ba62a9fed30f09b9297aabf5285c6b1145d\">b9a78ba</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/45194a7aedb20f2230a87415e22718da32d04593\">45194a7</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/aeb4c8ef8b3862fe2e693b9902b73f4a653bb32f\">aeb4c8e</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/8e41383074d67bed9e8615891f7427293ddff442\">8e41383</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/939e142b3ffef457db1155c068272cecc48c2da9\">939e142</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nix-dev-env/commit/6ee36fdccd0f000efcff8d26fc7862501302b117\">6ee36fd</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b443003a1dc6e40dfa8bfa4cdd365e8d596dafa1\">b443003</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/49d66095b12ac739658b71bdae9b9c9c388c6c79\">49d6609</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/b9a78ba62a9fed30f09b9297aabf5285c6b1145d\">b9a78ba</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/45194a7aedb20f2230a87415e22718da32d04593\">45194a7</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/aeb4c8ef8b3862fe2e693b9902b73f4a653bb32f\">aeb4c8e</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/8e41383074d67bed9e8615891f7427293ddff442\">8e41383</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/939e142b3ffef457db1155c068272cecc48c2da9\">939e142</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 311 times)\n2. adds (used 158 times)\n3. update (used 156 times)\n4. fix (used 109 times)\n5. input (used 104 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 314 times)\n2. adds (used 158 times)\n3. update (used 157 times)\n4. fix (used 109 times)\n5. input (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/c17e1caa27c32d1f42b778b0be8d620f9a6dc7c3\">c17e1ca</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/2442b8bbbf6b4e4a7626ae4e40a474ef7042e335\">2442b8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/0b91534d76ec149a2ffdf7368420adc601804ef8\">0b91534</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1028e8c3033d38e15030f9987ddd78860fc44362\">1028e8c</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/168729d1f01b0ae430a24214dea814d4205057d1\">168729d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/de03c2a6ae4a12304b740df35c244643b6f2441f\">de03c2a</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/514536784d26c4c1f8252cfc313a4aa05ecafe07\">5145367</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1085387d5eeb4c7fef8d5ee0b6e17e523a76fbfb\">1085387</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/c17e1caa27c32d1f42b778b0be8d620f9a6dc7c3\">c17e1ca</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/2442b8bbbf6b4e4a7626ae4e40a474ef7042e335\">2442b8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/0b91534d76ec149a2ffdf7368420adc601804ef8\">0b91534</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
