@@ -133,13 +133,6 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
@@ -173,5 +166,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f1d29833a6c3b788fda8e961636ce5930cd48cec\">f1d2983</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/77b429145a818f747c346fef4d91e3d7b4f5ba9a\">77b4291</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
