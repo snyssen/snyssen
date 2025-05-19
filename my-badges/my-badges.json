@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 319 times)\n2. update (used 162 times)\n3. adds (used 158 times)\n4. fix (used 109 times)\n5. input (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 322 times)\n2. update (used 164 times)\n3. adds (used 158 times)\n4. fix (used 112 times)\n5. input (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/13e4eab2cb48c5226af5c06e542a82c64ef7cd9f\">13e4eab</a>: fix(hosts/virtualbox): add missing home-manager stateVersion\n- <a href=\"https://github.com/snyssen/nixos-config/commit/1e6e3776bf005d3d6c00808fb33b67184f69df6a\">1e6e377</a>: fix(homeManagerModules/zsh): add missing pkgs arg\n- <a href=\"https://github.com/snyssen/nixos-config/commit/618c9906e71038cb53fd89c2cbec14e02d8932eb\">618c990</a>: fix: missing semicolon\n- <a href=\"https://github.com/snyssen/nixos-config/commit/0497554c4d7c800575f681b0b3f6c424d8232dde\">0497554</a>: fix: missing semicolon",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/97a69f810b8df6f44e9a9bc5c011d6cc52d87637\">97a69f8</a>: fix(modules/kbd-layout): fix keyboards layouts definition\n- <a href=\"https://github.com/snyssen/nixos-config/commit/6fb99f782fa503ad2baf35012361b148b2a729f1\">6fb99f7</a>: fix(home/gnome): restore super+right click to resize windows\n- <a href=\"https://github.com/snyssen/nixos-config/commit/2fe4722dfe2cd675f3bf4e39828023caf19d6157\">2fe4722</a>: fix(modules/grub): re-enable OS prober\n- <a href=\"https://github.com/snyssen/nixos-config/commit/df780162ce22dfb49a27bfc1ecf9f6626e5166c5\">df78016</a>: fix(hosts/gaming): fix boot",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f4b2ce9f37386d43b6e45ff264aef8db6048ddca\">f4b2ce9</a>\n- <a href=\"https://github.com/snyssen/restic-backup-docker-wol/commit/308ab8bc3aeb03c25b38bfd03374434a55b0f3a3\">308ab8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8096cf433e426a3c720d3d991368679c1f0efeaa\">8096cf4</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/78e4e6997dd2179391675e33d42c4744171187ca\">78e4e69</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8ae10d8218a3c18f6ec6d7019f7c02ecd9bc9dda\">8ae10d8</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f19f7441bfb7737ec4f0bcfc29ebdc327f221b93\">f19f744</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/2fe4722dfe2cd675f3bf4e39828023caf19d6157\">2fe4722</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/df780162ce22dfb49a27bfc1ecf9f6626e5166c5\">df78016</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f4b2ce9f37386d43b6e45ff264aef8db6048ddca\">f4b2ce9</a>\n- <a href=\"https://github.com/snyssen/restic-backup-docker-wol/commit/308ab8bc3aeb03c25b38bfd03374434a55b0f3a3\">308ab8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8096cf433e426a3c720d3d991368679c1f0efeaa\">8096cf4</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/78e4e6997dd2179391675e33d42c4744171187ca\">78e4e69</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
