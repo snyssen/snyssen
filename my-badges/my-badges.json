@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 325 times)\n2. update (used 166 times)\n3. adds (used 158 times)\n4. fix (used 112 times)\n5. input (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 327 times)\n2. update (used 166 times)\n3. adds (used 158 times)\n4. fix (used 112 times)\n5. input (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/2fe4722dfe2cd675f3bf4e39828023caf19d6157\">2fe4722</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/df780162ce22dfb49a27bfc1ecf9f6626e5166c5\">df78016</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f4b2ce9f37386d43b6e45ff264aef8db6048ddca\">f4b2ce9</a>\n- <a href=\"https://github.com/snyssen/restic-backup-docker-wol/commit/308ab8bc3aeb03c25b38bfd03374434a55b0f3a3\">308ab8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8096cf433e426a3c720d3d991368679c1f0efeaa\">8096cf4</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/78e4e6997dd2179391675e33d42c4744171187ca\">78e4e69</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/88f87335120e1eede750b5514a082cb9aeb76fef\">88f8733</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/2fe4722dfe2cd675f3bf4e39828023caf19d6157\">2fe4722</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/df780162ce22dfb49a27bfc1ecf9f6626e5166c5\">df78016</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f4b2ce9f37386d43b6e45ff264aef8db6048ddca\">f4b2ce9</a>\n- <a href=\"https://github.com/snyssen/restic-backup-docker-wol/commit/308ab8bc3aeb03c25b38bfd03374434a55b0f3a3\">308ab8b</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8096cf433e426a3c720d3d991368679c1f0efeaa\">8096cf4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -168,17 +168,17 @@
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "fix-6+",
     "tier": 6,
     "desc": "I did 7 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/c0035ac37b79bf03db8513954353a81f1a16617a\">c0035ac</a>: fix(setup_common): update name of oh-my-zsh role\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/6e474fbbbdc6f1f3520d13e4d7bb88995117e39f\">6e474fb</a>: fix: replace oh-my-zsh role with my own\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/7e54363e4ab211754bd9c5d9d7d39bf162c7f1f1\">7e54363</a>: fix: replace oh-my-zsh role with my own\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/e1dc9a04f67213fe954b68a3725be2bc030500bf\">e1dc9a0</a>: fix(cadvisor): increase memory limit\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/831818745642f7a84c19716c91a7a55c95ee7cc6\">8318187</a>: fix(streaming): ensure ytdl-sub is using the default working directory to prevent permission issues\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/afed8503709969112b6d5bec56cf998ce7b0ad92\">afed850</a>: fix(immich): update backup process\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/caf717cea9ae5328c3b04a52d79e150e797d8a71\">caf717c</a>: fix(dawarich): update backup process",
     "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]
