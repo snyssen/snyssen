@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/snyssen/personal-website/commit/fb0f5c7fd6204840949268073175a457df5db9c3">fb0f5c7</a>: fix: update analytics link
-- <a href="https://github.com/snyssen/personal-website/commit/938ac4e4874ca47e76853bf736af989b1d8fa512">938ac4e</a>: fix: remove plausible analytics
+- <a href="https://github.com/snyssen/personal-website/commit/a7db3732479e78d30a10e4358736fb7e84bb9734">a7db373</a>: fix: update build so it works with SSR
+- <a href="https://github.com/snyssen/personal-website/commit/8c975a63e3dca1660589a69f1113dee7ce524f60">8c975a6</a>: fix: add node adapter to allow having dynamic endpoints
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

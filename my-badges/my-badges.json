@@ -66,14 +66,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 336 times)\n2. update (used 177 times)\n3. adds (used 158 times)\n4. fix (used 113 times)\n5. input (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 338 times)\n2. update (used 178 times)\n3. adds (used 158 times)\n4. fix (used 113 times)\n5. input (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/personal-website/commit/fb0f5c7fd6204840949268073175a457df5db9c3\">fb0f5c7</a>: fix: update analytics link\n- <a href=\"https://github.com/snyssen/personal-website/commit/938ac4e4874ca47e76853bf736af989b1d8fa512\">938ac4e</a>: fix: remove plausible analytics",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/personal-website/commit/a7db3732479e78d30a10e4358736fb7e84bb9734\">a7db373</a>: fix: update build so it works with SSR\n- <a href=\"https://github.com/snyssen/personal-website/commit/8c975a63e3dca1660589a69f1113dee7ce524f60\">8c975a6</a>: fix: add node adapter to allow having dynamic endpoints",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
