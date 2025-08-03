@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 349 times)\n2. update (used 184 times)\n3. adds (used 158 times)\n4. fix (used 113 times)\n5. input (used 108 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 350 times)\n2. update (used 184 times)\n3. adds (used 158 times)\n4. fix (used 113 times)\n5. input (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/a184db134bffa579a8d586b91e5c70f18eb35e2b\">a184db1</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/fb202e03f2ce585c98b98aede964d712a2926b96\">fb202e0</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f518e4d81f6269178aac7fab0178f49c31202990\">f518e4d</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/d9d872615d3fdd9a50258d61891aa2057a9afea2\">d9d8726</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/4ec2b1ab82bf2ccbc6395821f4e67e8b623a5c81\">4ec2b1a</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/04f3f1f9be095355fdbad1d6eb75ee5175fb9087\">04f3f1f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/8077af89953af27d43e27b2451b2f5d4123f71b3\">8077af8</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/a184db134bffa579a8d586b91e5c70f18eb35e2b\">a184db1</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/fb202e03f2ce585c98b98aede964d712a2926b96\">fb202e0</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/f518e4d81f6269178aac7fab0178f49c31202990\">f518e4d</a>\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/commit/d9d872615d3fdd9a50258d61891aa2057a9afea2\">d9d8726</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/4ec2b1ab82bf2ccbc6395821f4e67e8b623a5c81\">4ec2b1a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
