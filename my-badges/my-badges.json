@@ -180,5 +180,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/snyssen/nixos-config/commit/5d9bc64faee1b22cdfa40b5c61c498c21f0c5ece\">5d9bc64</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/ff35589ee9135aa56395f777e4b3301a31a31441\">ff35589</a>\n- <a href=\"https://github.com/snyssen/nixos-config/commit/47e7bb89a9ebcac301da5194d17784cffefc2899\">47e7bb8</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
