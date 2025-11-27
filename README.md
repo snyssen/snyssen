@@ -23,7 +23,7 @@ Check out my **[personal website](https://snyssen.be)** and follow me on the fol
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
-<a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
+<a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
 <!-- my-badges end -->
 
 [Source](https://github.com/my-badges/my-badges)
