@@ -24,6 +24,8 @@ Check out my **[personal website](https://snyssen.be)** and follow me on the fol
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/public-keys-5.md"><img src="https://my-badges.github.io/my-badges/public-keys-5.png" alt="I have five or more public keys" title="I have five or more public keys" width="64"></a>
+<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
+<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
 <!-- my-badges end -->
 
 [Source](https://github.com/my-badges/my-badges)
