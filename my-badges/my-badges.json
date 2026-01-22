@@ -47,5 +47,12 @@
     "desc": "I closed an issue that was open for 2 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/3\">#3</a>: Install a Matrix instance\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/55\">#55</a>: We should run restic check periodically\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/50\">#50</a>: Install Proton Bridge so Paperless can access my proton mail address\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/66\">#66</a>: Use autorestic on bare metal for backups",
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/snyssen/infra-snyssen.be/issues/58\">#58</a>: We should add infrastructure diagrams to our documentation",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   }
 ]
