@@ -14,6 +14,7 @@ Issues:
 - <a href="https://github.com/snyssen/infra-snyssen.be/issues/28">#28</a>: Setup SSO across apps
 - <a href="https://github.com/snyssen/infra-snyssen.be/issues/71">#71</a>: Use Docker secrets with compose
 - <a href="https://github.com/snyssen/infra-snyssen.be/issues/272">#272</a>: Test feasability of running self hosted LLM
+- <a href="https://github.com/snyssen/mother-of-all-infra/issues/51">#51</a>: [Paperless] Automate documents ingestion from scanner
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
