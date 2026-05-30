@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/TechnitiumSoftware/DnsServer/issues/1961">#1961</a>: DHCP scope activates but server never replies to DHCP Discover/Request (NixOS VM, bridged LAN)
 - <a href="https://github.com/nextcloud/mail/issues/6678">#6678</a>: Create a task from a mail
 - <a href="https://github.com/snyssen/personal-website/issues/34">#34</a>: Add release please in repos
 - <a href="https://github.com/kyverno/policy-reporter/issues/376">#376</a>: Kind and Name labels empty in metrics exposed to Prometheus
 - <a href="https://github.com/ellite/Wallos/issues/94">#94</a>: [FEATURE REQUEST] Provide versioned container images
-- <a href="https://github.com/external-secrets/external-secrets/issues/5132">#5132</a>: PushSecret implementation for IBM Secrets Manager
 
  And many more...
 
