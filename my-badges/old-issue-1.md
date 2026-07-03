@@ -13,6 +13,7 @@ Issues:
 - <a href="https://github.com/snyssen/infra-snyssen.be/issues/13">#13</a>: Install LibreTranslate
 - <a href="https://github.com/snyssen/infra-snyssen.be/issues/71">#71</a>: Use Docker secrets with compose
 - <a href="https://github.com/snyssen/mother-of-all-infra/issues/51">#51</a>: [Paperless] Automate documents ingestion from scanner
+- <a href="https://github.com/snyssen/mother-of-all-infra/issues/45">#45</a>: Test disaster recovery for postgres databases
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
